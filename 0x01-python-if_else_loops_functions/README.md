@@ -22,6 +22,7 @@ Prototypes for functions written in this project:
 
 ## Tasks :page_with_curl:
 
+
 * **0. Positive anything is better than negative nothing** `mandatory`
   * [0-positive_or_negative.py](./0-positive_or_negative.py): Python program that assigns a random signed number to the variable `number` each time it is executed and prints whether `number` is positive or negative.
   * Prints the number followed by:
